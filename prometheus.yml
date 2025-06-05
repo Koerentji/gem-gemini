@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'ml_model'
+    static_configs:
+=======
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'ml_model'
+    static_configs:
+>>>>>>> 7118129ee0978809769f23267591b6791a1345bc
+      - targets: ['localhost:8000']

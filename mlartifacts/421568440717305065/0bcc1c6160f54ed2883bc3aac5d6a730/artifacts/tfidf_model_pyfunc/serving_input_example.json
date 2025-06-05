@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+{
+  "dataframe_split": {
+    "columns": [
+      "text"
+    ],
+    "data": [
+      [
+        "example job description"
+      ]
+    ]
+  }
+=======
+{
+  "dataframe_split": {
+    "columns": [
+      "text"
+    ],
+    "data": [
+      [
+        "example job description"
+      ]
+    ]
+  }
+>>>>>>> 7118129ee0978809769f23267591b6791a1345bc
+}

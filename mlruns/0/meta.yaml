@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+artifact_location: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/0
+creation_time: 1747896622454
+experiment_id: '0'
+last_update_time: 1747896622454
+lifecycle_stage: active
+name: Default
+=======
+artifact_location: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/0
+creation_time: 1747896622454
+experiment_id: '0'
+last_update_time: 1747896622454
+lifecycle_stage: active
+name: Default
+>>>>>>> 7118129ee0978809769f23267591b6791a1345bc

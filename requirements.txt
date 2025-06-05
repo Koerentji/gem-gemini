@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mlflow
+prometheus-client
+=======
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mlflow
+prometheus-client
+>>>>>>> 7118129ee0978809769f23267591b6791a1345bc
+jupyter

@@ -1,0 +1,77 @@
+<<<<<<< HEAD
+digest: 5e9a389e
+name: dataset
+profile: '{"num_rows": 4424, "num_elements": 159264}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Marital_status", "required":
+  true}, {"type": "long", "name": "Application_mode", "required": true}, {"type":
+  "long", "name": "Application_order", "required": true}, {"type": "long", "name":
+  "Course", "required": true}, {"type": "long", "name": "Daytime_evening_attendance",
+  "required": true}, {"type": "long", "name": "Previous_qualification", "required":
+  true}, {"type": "double", "name": "Previous_qualification_grade", "required": true},
+  {"type": "long", "name": "Nacionality", "required": true}, {"type": "long", "name":
+  "Mothers_qualification", "required": true}, {"type": "long", "name": "Fathers_qualification",
+  "required": true}, {"type": "long", "name": "Mothers_occupation", "required": true},
+  {"type": "long", "name": "Fathers_occupation", "required": true}, {"type": "double",
+  "name": "Admission_grade", "required": true}, {"type": "long", "name": "Displaced",
+  "required": true}, {"type": "long", "name": "Educational_special_needs", "required":
+  true}, {"type": "long", "name": "Debtor", "required": true}, {"type": "long", "name":
+  "Tuition_fees_up_to_date", "required": true}, {"type": "long", "name": "Gender",
+  "required": true}, {"type": "long", "name": "Scholarship_holder", "required": true},
+  {"type": "long", "name": "Age_at_enrollment", "required": true}, {"type": "long",
+  "name": "International", "required": true}, {"type": "long", "name": "Curricular_units_1st_sem_credited",
+  "required": true}, {"type": "long", "name": "Curricular_units_1st_sem_enrolled",
+  "required": true}, {"type": "long", "name": "Curricular_units_1st_sem_evaluations",
+  "required": true}, {"type": "long", "name": "Curricular_units_1st_sem_approved",
+  "required": true}, {"type": "double", "name": "Curricular_units_1st_sem_grade",
+  "required": true}, {"type": "long", "name": "Curricular_units_1st_sem_without_evaluations",
+  "required": true}, {"type": "long", "name": "Curricular_units_2nd_sem_credited",
+  "required": true}, {"type": "long", "name": "Curricular_units_2nd_sem_enrolled",
+  "required": true}, {"type": "long", "name": "Curricular_units_2nd_sem_evaluations",
+  "required": true}, {"type": "long", "name": "Curricular_units_2nd_sem_approved",
+  "required": true}, {"type": "double", "name": "Curricular_units_2nd_sem_grade",
+  "required": true}, {"type": "long", "name": "Curricular_units_2nd_sem_without_evaluations",
+  "required": true}, {"type": "double", "name": "Unemployment_rate", "required": true},
+  {"type": "double", "name": "Inflation_rate", "required": true}, {"type": "double",
+  "name": "GDP", "required": true}]}'
+source: '{"tags": {"mlflow.user": "hrahm", "mlflow.source.name": "c:\\Users\\hrahm\\OneDrive\\Documents\\streamlit\\MSML\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
+=======
+digest: 5e9a389e
+name: dataset
+profile: '{"num_rows": 4424, "num_elements": 159264}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Marital_status", "required":
+  true}, {"type": "long", "name": "Application_mode", "required": true}, {"type":
+  "long", "name": "Application_order", "required": true}, {"type": "long", "name":
+  "Course", "required": true}, {"type": "long", "name": "Daytime_evening_attendance",
+  "required": true}, {"type": "long", "name": "Previous_qualification", "required":
+  true}, {"type": "double", "name": "Previous_qualification_grade", "required": true},
+  {"type": "long", "name": "Nacionality", "required": true}, {"type": "long", "name":
+  "Mothers_qualification", "required": true}, {"type": "long", "name": "Fathers_qualification",
+  "required": true}, {"type": "long", "name": "Mothers_occupation", "required": true},
+  {"type": "long", "name": "Fathers_occupation", "required": true}, {"type": "double",
+  "name": "Admission_grade", "required": true}, {"type": "long", "name": "Displaced",
+  "required": true}, {"type": "long", "name": "Educational_special_needs", "required":
+  true}, {"type": "long", "name": "Debtor", "required": true}, {"type": "long", "name":
+  "Tuition_fees_up_to_date", "required": true}, {"type": "long", "name": "Gender",
+  "required": true}, {"type": "long", "name": "Scholarship_holder", "required": true},
+  {"type": "long", "name": "Age_at_enrollment", "required": true}, {"type": "long",
+  "name": "International", "required": true}, {"type": "long", "name": "Curricular_units_1st_sem_credited",
+  "required": true}, {"type": "long", "name": "Curricular_units_1st_sem_enrolled",
+  "required": true}, {"type": "long", "name": "Curricular_units_1st_sem_evaluations",
+  "required": true}, {"type": "long", "name": "Curricular_units_1st_sem_approved",
+  "required": true}, {"type": "double", "name": "Curricular_units_1st_sem_grade",
+  "required": true}, {"type": "long", "name": "Curricular_units_1st_sem_without_evaluations",
+  "required": true}, {"type": "long", "name": "Curricular_units_2nd_sem_credited",
+  "required": true}, {"type": "long", "name": "Curricular_units_2nd_sem_enrolled",
+  "required": true}, {"type": "long", "name": "Curricular_units_2nd_sem_evaluations",
+  "required": true}, {"type": "long", "name": "Curricular_units_2nd_sem_approved",
+  "required": true}, {"type": "double", "name": "Curricular_units_2nd_sem_grade",
+  "required": true}, {"type": "long", "name": "Curricular_units_2nd_sem_without_evaluations",
+  "required": true}, {"type": "double", "name": "Unemployment_rate", "required": true},
+  {"type": "double", "name": "Inflation_rate", "required": true}, {"type": "double",
+  "name": "GDP", "required": true}]}'
+source: '{"tags": {"mlflow.user": "hrahm", "mlflow.source.name": "c:\\Users\\hrahm\\OneDrive\\Documents\\streamlit\\MSML\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
+>>>>>>> 7118129ee0978809769f23267591b6791a1345bc

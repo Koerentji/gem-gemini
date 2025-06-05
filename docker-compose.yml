@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+services:
+  msml-app:
+    build:
+      context: ./app
+      dockerfile: ../Dockerfile
+    ports:
+      - "8888:8888"  # Jupyter Notebook
+      - "8000:8000"  # Prometheus metrics
+    volumes:
+=======
+services:
+  msml-app:
+    build:
+      context: ./app
+      dockerfile: ../Dockerfile
+    ports:
+      - "8888:8888"  # Jupyter Notebook
+      - "8000:8000"  # Prometheus metrics
+    volumes:
+>>>>>>> 7118129ee0978809769f23267591b6791a1345bc
+      - ./app:/app

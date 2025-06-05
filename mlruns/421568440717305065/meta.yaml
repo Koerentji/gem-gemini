@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+artifact_location: mlflow-artifacts:/421568440717305065
+creation_time: 1747797862162
+experiment_id: '421568440717305065'
+last_update_time: 1747797862162
+lifecycle_stage: active
+name: TFIDF_Recommender
+=======
+artifact_location: mlflow-artifacts:/421568440717305065
+creation_time: 1747797862162
+experiment_id: '421568440717305065'
+last_update_time: 1747797862162
+lifecycle_stage: active
+name: TFIDF_Recommender
+>>>>>>> 7118129ee0978809769f23267591b6791a1345bc

@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+artifact_location: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501
+creation_time: 1747896622505
+experiment_id: '263892239660445501'
+last_update_time: 1747896622505
+lifecycle_stage: active
+name: Compare_Models
+=======
+artifact_location: file:///c:/Users/hrahm/OneDrive/Documents/streamlit/MSML/mlruns/263892239660445501
+creation_time: 1747896622505
+experiment_id: '263892239660445501'
+last_update_time: 1747896622505
+lifecycle_stage: active
+name: Compare_Models
+>>>>>>> 7118129ee0978809769f23267591b6791a1345bc

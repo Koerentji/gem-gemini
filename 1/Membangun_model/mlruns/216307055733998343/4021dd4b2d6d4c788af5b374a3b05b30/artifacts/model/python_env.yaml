@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+python: 3.12.7
+build_dependencies:
+- pip==25.1
+- setuptools==78.1.1
+- wheel==0.45.1
+dependencies:
+- -r requirements.txt
+=======
+python: 3.12.7
+build_dependencies:
+- pip==25.1
+- setuptools==78.1.1
+- wheel==0.45.1
+dependencies:
+- -r requirements.txt
+>>>>>>> 7118129ee0978809769f23267591b6791a1345bc

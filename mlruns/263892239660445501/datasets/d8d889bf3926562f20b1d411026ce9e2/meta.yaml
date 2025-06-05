@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+digest: 77d01003
+name: dataset
+profile: '{"features_shape": [1, 37], "features_size": 37, "features_nbytes": 296}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 37]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "hrahm", "mlflow.source.name": "c:\\Users\\hrahm\\OneDrive\\Documents\\streamlit\\MSML\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "53cce5241e36f206bade9e7ad1e417f7f7313b91"}}'
+source_type: code
+=======
+digest: 77d01003
+name: dataset
+profile: '{"features_shape": [1, 37], "features_size": 37, "features_nbytes": 296}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 37]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "hrahm", "mlflow.source.name": "c:\\Users\\hrahm\\OneDrive\\Documents\\streamlit\\MSML\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "53cce5241e36f206bade9e7ad1e417f7f7313b91"}}'
+source_type: code
+>>>>>>> 7118129ee0978809769f23267591b6791a1345bc
